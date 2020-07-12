@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    padding-top: 44px;
+}
+
+a,
+button {
+    cursor: pointer;
+    color: inherit;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
